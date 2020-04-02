@@ -16,3 +16,8 @@ easy proxy datasource to print complete sql .like p6spy .
        &lt;appender-ref ref="stdout" /&gt;
 &lt;/logger>
 
+
+控制台打印完整sql
+
+干净不依赖其他任何包。方便维护。
+
